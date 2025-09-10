@@ -1,0 +1,12 @@
+{
+  "modules": [
+    { "type": "RSI", "params": { "period": 14, "overbought": 70, "oversold": 30 } },
+    { "type": "EMA", "params": { "period": 21 } },
+    { "type": "SentimentFilter", "params": { "threshold": 0.5 } },
+    { "type": "ExecutionLogic", "params": {
+      "buy": "RSI < 30 && Sentiment > 0.5",
+      "sell": "RSI > 70 && Sentiment < 0.5"
+    }}
+  ]
+}
+

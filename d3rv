@@ -1,0 +1,33 @@
+const express = require('express');
+const fs = require('fs');
+const path = require('path');
+const client = require('prom-client');
+
+const app = express();
+const PORT = 4000;
+const strategyPath = process.env.STRATEGY_PATH || './strategy/SentinelSniper.json';
+app.get('/', (req, res) => {
+  res.send('SentinelSniper backend is running.');
+});
+app.use(express.json());
+
+// Load strategy
+app.get('/strategy', (req, res) => {
+  fs.readFile(strategyPath, 'utf8', (err, data) => {
+    if (err) return res.status(500).send('Error loading strategy');
+    res.json(JSON.parse(data));
+  });
+});
+
+// Prometheus metrics
+const tradeCount = new client.Gauge({ name: 'trade_count', help: 'Number of trades executed' });
+tradeCount.set(42);
+
+app.get('/metrics', async (req, res) => {
+  res.set('Content-Type', client.register.contentType);
+  res.end(await client.register.metrics());
+});
+
+app.listen(PORT, '0.0.0.0', () => {
+  console.log(`Backend running on port ${PORT}`);
+});

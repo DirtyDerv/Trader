@@ -1,0 +1,38 @@
+{
+  "running": true,
+  "intervalMs": 15000,
+  "startingCash": 50,
+  "balance": 50,
+  "position": 0,
+  "entryPrice": null,
+  "lastAction": "hold",
+  "lastError": null,
+  "lastRun": "2025-09-10T18:04:24.903Z",
+  "cycles": 9,
+  "tradesToday": 0,
+  "pnlToday": 0,
+  "maxDailyLoss": 5,
+  "maxPosition": 50,
+  "cooldownMs": 0,
+  "nextAllowedTs": 1757527192701,
+  "arb": {
+    "enabled": true,
+    "last": null
+  },
+  "price": 113796.59,
+  "indicators": {
+    "RSI": 58.96,
+    "Sentiment": 0
+  },
+  "action": "hold",
+  "lastArbitrage": null,
+  "arbEnabled": true,
+  "timestamp": "2025-09-10T18:04:24.903Z",
+  "arbConfig": {
+    "enabled": true,
+    "symbol": "BTC",
+    "quote": "USDT",
+    "minNetSpreadPct": 0.25,
+    "notional": 25
+  }
+}

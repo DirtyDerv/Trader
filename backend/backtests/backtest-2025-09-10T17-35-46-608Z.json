@@ -1,0 +1,5276 @@
+{
+  "timestamp": "2025-09-10T17:35:46.606Z",
+  "startingCash": 50,
+  "endingBalance": 21.69,
+  "netProfit": -28.31,
+  "tradesExecuted": 104,
+  "engagementRate": "15.81%",
+  "accuracy": "0%",
+  "candlesAnalyzed": 658,
+  "trades": [
+    {
+      "time": 1756934999999,
+      "RSI": 43.39,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756935899999,
+      "RSI": 35.76,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756936799999,
+      "RSI": 45.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756937699999,
+      "RSI": 56.79,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756938599999,
+      "RSI": 48.59,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756939499999,
+      "RSI": 53.66,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756940399999,
+      "RSI": 51.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756941299999,
+      "RSI": 50.18,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756942199999,
+      "RSI": 32.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756943099999,
+      "RSI": 30.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756943999999,
+      "RSI": 32.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756944899999,
+      "RSI": 33.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756945799999,
+      "RSI": 42.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756946699999,
+      "RSI": 47.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756947599999,
+      "RSI": 49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756948499999,
+      "RSI": 44.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756949399999,
+      "RSI": 43.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756950299999,
+      "RSI": 42.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756951199999,
+      "RSI": 49.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756952099999,
+      "RSI": 46.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756952999999,
+      "RSI": 35.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756953899999,
+      "RSI": 43.15,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756954799999,
+      "RSI": 41.08,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756955699999,
+      "RSI": 45.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756956599999,
+      "RSI": 41.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756957499999,
+      "RSI": 38.29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756958399999,
+      "RSI": 27.14,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756959299999,
+      "RSI": 28.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756960199999,
+      "RSI": 26.93,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756961099999,
+      "RSI": 32.69,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756961999999,
+      "RSI": 25.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756962899999,
+      "RSI": 19.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756963799999,
+      "RSI": 17.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756964699999,
+      "RSI": 17.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756965599999,
+      "RSI": 23.77,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756966499999,
+      "RSI": 14.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756967399999,
+      "RSI": 14.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756968299999,
+      "RSI": 11.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756969199999,
+      "RSI": 12.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756970099999,
+      "RSI": 24.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756970999999,
+      "RSI": 24.29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756971899999,
+      "RSI": 17.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756972799999,
+      "RSI": 24.8,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756973699999,
+      "RSI": 34.59,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756974599999,
+      "RSI": 45.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756975499999,
+      "RSI": 47.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756976399999,
+      "RSI": 44.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756977299999,
+      "RSI": 57.29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756978199999,
+      "RSI": 55.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756979099999,
+      "RSI": 54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756979999999,
+      "RSI": 60.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 50
+    },
+    {
+      "time": 1756980899999,
+      "RSI": 70.76,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.4,
+      "balance": 49.6
+    },
+    {
+      "time": 1756981799999,
+      "RSI": 65.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756982699999,
+      "RSI": 62.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756983599999,
+      "RSI": 55.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756984499999,
+      "RSI": 66.14,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756985399999,
+      "RSI": 62.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756986299999,
+      "RSI": 59.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756987199999,
+      "RSI": 50.38,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756988099999,
+      "RSI": 57.87,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756988999999,
+      "RSI": 56.71,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756989899999,
+      "RSI": 44.79,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756990799999,
+      "RSI": 52.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756991699999,
+      "RSI": 49.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756992599999,
+      "RSI": 49.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756993499999,
+      "RSI": 40.79,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756994399999,
+      "RSI": 41.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756995299999,
+      "RSI": 31.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756996199999,
+      "RSI": 37.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756997099999,
+      "RSI": 33.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756997999999,
+      "RSI": 31.14,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756998899999,
+      "RSI": 25.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1756999799999,
+      "RSI": 28.63,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757000699999,
+      "RSI": 22.91,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757001599999,
+      "RSI": 25.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757002499999,
+      "RSI": 31.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757003399999,
+      "RSI": 20.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757004299999,
+      "RSI": 23.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757005199999,
+      "RSI": 23.26,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757006099999,
+      "RSI": 32.2,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757006999999,
+      "RSI": 37.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757007899999,
+      "RSI": 45.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757008799999,
+      "RSI": 46.2,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757009699999,
+      "RSI": 50.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757010599999,
+      "RSI": 51.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757011499999,
+      "RSI": 64.62,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757012399999,
+      "RSI": 61.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757013299999,
+      "RSI": 65.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757014199999,
+      "RSI": 61.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757015099999,
+      "RSI": 56.2,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757015999999,
+      "RSI": 60.29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757016899999,
+      "RSI": 66.07,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757017799999,
+      "RSI": 69.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757018699999,
+      "RSI": 64.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757019599999,
+      "RSI": 63.8,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757020499999,
+      "RSI": 67.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757021399999,
+      "RSI": 65.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757022299999,
+      "RSI": 60.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757023199999,
+      "RSI": 69.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757024099999,
+      "RSI": 67.8,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 49.6
+    },
+    {
+      "time": 1757024999999,
+      "RSI": 75.78,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3968,
+      "balance": 49.2
+    },
+    {
+      "time": 1757025899999,
+      "RSI": 71.26,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3936,
+      "balance": 48.81
+    },
+    {
+      "time": 1757026799999,
+      "RSI": 83.02,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3905,
+      "balance": 48.42
+    },
+    {
+      "time": 1757027699999,
+      "RSI": 83.94,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3874,
+      "balance": 48.03
+    },
+    {
+      "time": 1757028599999,
+      "RSI": 77.12,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3843,
+      "balance": 47.65
+    },
+    {
+      "time": 1757029499999,
+      "RSI": 63.62,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757030399999,
+      "RSI": 58.25,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757031299999,
+      "RSI": 57.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757032199999,
+      "RSI": 56.49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757033099999,
+      "RSI": 58.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757033999999,
+      "RSI": 50.66,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757034899999,
+      "RSI": 52.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757035799999,
+      "RSI": 55.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757036699999,
+      "RSI": 58.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757037599999,
+      "RSI": 55.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757038499999,
+      "RSI": 59.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757039399999,
+      "RSI": 45.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757040299999,
+      "RSI": 48.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757041199999,
+      "RSI": 56.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757042099999,
+      "RSI": 60.89,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757042999999,
+      "RSI": 62.82,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757043899999,
+      "RSI": 67.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757044799999,
+      "RSI": 68.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757045699999,
+      "RSI": 62.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 47.65
+    },
+    {
+      "time": 1757046599999,
+      "RSI": 76.33,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3812,
+      "balance": 47.27
+    },
+    {
+      "time": 1757047499999,
+      "RSI": 76.19,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3781,
+      "balance": 46.89
+    },
+    {
+      "time": 1757048399999,
+      "RSI": 73.53,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3751,
+      "balance": 46.51
+    },
+    {
+      "time": 1757049299999,
+      "RSI": 71.35,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3721,
+      "balance": 46.14
+    },
+    {
+      "time": 1757050199999,
+      "RSI": 67.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 46.14
+    },
+    {
+      "time": 1757051099999,
+      "RSI": 65.09,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 46.14
+    },
+    {
+      "time": 1757051999999,
+      "RSI": 61.55,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 46.14
+    },
+    {
+      "time": 1757052899999,
+      "RSI": 60.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 46.14
+    },
+    {
+      "time": 1757053799999,
+      "RSI": 58.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 46.14
+    },
+    {
+      "time": 1757054699999,
+      "RSI": 71.77,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3691,
+      "balance": 45.77
+    },
+    {
+      "time": 1757055599999,
+      "RSI": 78.92,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3662,
+      "balance": 45.41
+    },
+    {
+      "time": 1757056499999,
+      "RSI": 83.49,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3632,
+      "balance": 45.04
+    },
+    {
+      "time": 1757057399999,
+      "RSI": 85.52,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3603,
+      "balance": 44.68
+    },
+    {
+      "time": 1757058299999,
+      "RSI": 92.32,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3575,
+      "balance": 44.32
+    },
+    {
+      "time": 1757059199999,
+      "RSI": 92.65,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3546,
+      "balance": 43.97
+    },
+    {
+      "time": 1757060099999,
+      "RSI": 84.17,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3518,
+      "balance": 43.62
+    },
+    {
+      "time": 1757060999999,
+      "RSI": 81.86,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3489,
+      "balance": 43.27
+    },
+    {
+      "time": 1757061899999,
+      "RSI": 80.39,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3462,
+      "balance": 42.92
+    },
+    {
+      "time": 1757062799999,
+      "RSI": 77.3,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3434,
+      "balance": 42.58
+    },
+    {
+      "time": 1757063699999,
+      "RSI": 71.75,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3406,
+      "balance": 42.24
+    },
+    {
+      "time": 1757064599999,
+      "RSI": 64.38,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757065499999,
+      "RSI": 65.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757066399999,
+      "RSI": 66.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757067299999,
+      "RSI": 63.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757068199999,
+      "RSI": 59.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757069099999,
+      "RSI": 51.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757069999999,
+      "RSI": 34.16,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757070899999,
+      "RSI": 28.93,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757071799999,
+      "RSI": 28.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757072699999,
+      "RSI": 32.38,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757073599999,
+      "RSI": 34.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757074499999,
+      "RSI": 35.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757075399999,
+      "RSI": 49.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757076299999,
+      "RSI": 56.18,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 42.24
+    },
+    {
+      "time": 1757077199999,
+      "RSI": 81.82,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3379,
+      "balance": 41.9
+    },
+    {
+      "time": 1757078099999,
+      "RSI": 72.58,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3352,
+      "balance": 41.57
+    },
+    {
+      "time": 1757078999999,
+      "RSI": 68.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 41.57
+    },
+    {
+      "time": 1757079899999,
+      "RSI": 72.17,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3325,
+      "balance": 41.23
+    },
+    {
+      "time": 1757080799999,
+      "RSI": 72.78,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3299,
+      "balance": 40.9
+    },
+    {
+      "time": 1757081699999,
+      "RSI": 47.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757082599999,
+      "RSI": 32.64,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757083499999,
+      "RSI": 32.44,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757084399999,
+      "RSI": 26.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757085299999,
+      "RSI": 27.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757086199999,
+      "RSI": 32.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757087099999,
+      "RSI": 33.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757087999999,
+      "RSI": 27.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757088899999,
+      "RSI": 27.98,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757089799999,
+      "RSI": 17.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757090699999,
+      "RSI": 21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757091599999,
+      "RSI": 21.31,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757092499999,
+      "RSI": 19.25,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757093399999,
+      "RSI": 17.5,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757094299999,
+      "RSI": 20.42,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757095199999,
+      "RSI": 41.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757096099999,
+      "RSI": 46.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757096999999,
+      "RSI": 61.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757097899999,
+      "RSI": 63.19,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757098799999,
+      "RSI": 57.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757099699999,
+      "RSI": 55.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757100599999,
+      "RSI": 67.44,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757101499999,
+      "RSI": 65.41,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.9
+    },
+    {
+      "time": 1757102399999,
+      "RSI": 72.09,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3272,
+      "balance": 40.58
+    },
+    {
+      "time": 1757103299999,
+      "RSI": 63.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.58
+    },
+    {
+      "time": 1757104199999,
+      "RSI": 63.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 40.58
+    },
+    {
+      "time": 1757105099999,
+      "RSI": 70.25,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3246,
+      "balance": 40.25
+    },
+    {
+      "time": 1757105999999,
+      "RSI": 71.94,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.322,
+      "balance": 39.93
+    },
+    {
+      "time": 1757106899999,
+      "RSI": 72.21,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3194,
+      "balance": 39.61
+    },
+    {
+      "time": 1757107799999,
+      "RSI": 57.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757108699999,
+      "RSI": 52.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757109599999,
+      "RSI": 39.64,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757110499999,
+      "RSI": 34.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757111399999,
+      "RSI": 37.31,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757112299999,
+      "RSI": 43.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757113199999,
+      "RSI": 37.07,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757114099999,
+      "RSI": 36.89,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757114999999,
+      "RSI": 27.68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757115899999,
+      "RSI": 30.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757116799999,
+      "RSI": 30.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757117699999,
+      "RSI": 24.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757118599999,
+      "RSI": 20.66,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757119499999,
+      "RSI": 31.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757120399999,
+      "RSI": 41.46,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757121299999,
+      "RSI": 49.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757122199999,
+      "RSI": 61.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757123099999,
+      "RSI": 65.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757123999999,
+      "RSI": 61.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757124899999,
+      "RSI": 42.6,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757125799999,
+      "RSI": 45.38,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757126699999,
+      "RSI": 58.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.61
+    },
+    {
+      "time": 1757127599999,
+      "RSI": 73.34,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3169,
+      "balance": 39.29
+    },
+    {
+      "time": 1757128499999,
+      "RSI": 66.92,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 39.29
+    },
+    {
+      "time": 1757129399999,
+      "RSI": 75.14,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3143,
+      "balance": 38.98
+    },
+    {
+      "time": 1757130299999,
+      "RSI": 64.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757131199999,
+      "RSI": 65.41,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757132099999,
+      "RSI": 53.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757132999999,
+      "RSI": 51.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757133899999,
+      "RSI": 50.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757134799999,
+      "RSI": 52.6,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757135699999,
+      "RSI": 49.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757136599999,
+      "RSI": 45.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757137499999,
+      "RSI": 48.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757138399999,
+      "RSI": 49.02,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757139299999,
+      "RSI": 42.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757140199999,
+      "RSI": 28.98,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757141099999,
+      "RSI": 31.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757141999999,
+      "RSI": 20.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757142899999,
+      "RSI": 30.15,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757143799999,
+      "RSI": 31.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757144699999,
+      "RSI": 43.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757145599999,
+      "RSI": 50.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757146499999,
+      "RSI": 44.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757147399999,
+      "RSI": 39.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757148299999,
+      "RSI": 54.8,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.98
+    },
+    {
+      "time": 1757149199999,
+      "RSI": 72.71,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3118,
+      "balance": 38.67
+    },
+    {
+      "time": 1757150099999,
+      "RSI": 46.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757150999999,
+      "RSI": 48.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757151899999,
+      "RSI": 56.28,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757152799999,
+      "RSI": 44.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757153699999,
+      "RSI": 50.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757154599999,
+      "RSI": 49.26,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757155499999,
+      "RSI": 47.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757156399999,
+      "RSI": 47.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757157299999,
+      "RSI": 45.56,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757158199999,
+      "RSI": 41.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757159099999,
+      "RSI": 45.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757159999999,
+      "RSI": 49.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757160899999,
+      "RSI": 47.8,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757161799999,
+      "RSI": 41.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757162699999,
+      "RSI": 57.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757163599999,
+      "RSI": 58.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757164499999,
+      "RSI": 56.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757165399999,
+      "RSI": 67.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757166299999,
+      "RSI": 61.55,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757167199999,
+      "RSI": 67.98,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757168099999,
+      "RSI": 62.37,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757168999999,
+      "RSI": 61.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757169899999,
+      "RSI": 62.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757170799999,
+      "RSI": 62.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757171699999,
+      "RSI": 48.28,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757172599999,
+      "RSI": 47.95,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757173499999,
+      "RSI": 31.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757174399999,
+      "RSI": 25.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757175299999,
+      "RSI": 19.76,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757176199999,
+      "RSI": 17.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757177099999,
+      "RSI": 12.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757177999999,
+      "RSI": 16.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757178899999,
+      "RSI": 15.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757179799999,
+      "RSI": 10.81,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757180699999,
+      "RSI": 9.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757181599999,
+      "RSI": 20.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757182499999,
+      "RSI": 25.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757183399999,
+      "RSI": 26.39,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757184299999,
+      "RSI": 26.22,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757185199999,
+      "RSI": 30.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757186099999,
+      "RSI": 32.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757186999999,
+      "RSI": 39.49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757187899999,
+      "RSI": 38.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757188799999,
+      "RSI": 41.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757189699999,
+      "RSI": 42.55,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757190599999,
+      "RSI": 40.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757191499999,
+      "RSI": 45.55,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757192399999,
+      "RSI": 51.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757193299999,
+      "RSI": 61.64,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757194199999,
+      "RSI": 51.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757195099999,
+      "RSI": 45.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757195999999,
+      "RSI": 49.79,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757196899999,
+      "RSI": 60.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757197799999,
+      "RSI": 44.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757198699999,
+      "RSI": 44.95,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757199599999,
+      "RSI": 51.08,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757200499999,
+      "RSI": 65.92,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.67
+    },
+    {
+      "time": 1757201399999,
+      "RSI": 74.59,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3093,
+      "balance": 38.36
+    },
+    {
+      "time": 1757202299999,
+      "RSI": 67.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757203199999,
+      "RSI": 61.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757204099999,
+      "RSI": 62.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757204999999,
+      "RSI": 57.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757205899999,
+      "RSI": 59.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757206799999,
+      "RSI": 66.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757207699999,
+      "RSI": 70,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 38.36
+    },
+    {
+      "time": 1757208599999,
+      "RSI": 73.24,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3069,
+      "balance": 38.05
+    },
+    {
+      "time": 1757209499999,
+      "RSI": 73.07,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.3044,
+      "balance": 37.75
+    },
+    {
+      "time": 1757210399999,
+      "RSI": 78.43,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.302,
+      "balance": 37.44
+    },
+    {
+      "time": 1757211299999,
+      "RSI": 82.73,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2996,
+      "balance": 37.15
+    },
+    {
+      "time": 1757212199999,
+      "RSI": 79.95,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2972,
+      "balance": 36.85
+    },
+    {
+      "time": 1757213099999,
+      "RSI": 77.3,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2948,
+      "balance": 36.55
+    },
+    {
+      "time": 1757213999999,
+      "RSI": 79.82,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2924,
+      "balance": 36.26
+    },
+    {
+      "time": 1757214899999,
+      "RSI": 75.62,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2901,
+      "balance": 35.97
+    },
+    {
+      "time": 1757215799999,
+      "RSI": 83.41,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2878,
+      "balance": 35.68
+    },
+    {
+      "time": 1757216699999,
+      "RSI": 73.01,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2855,
+      "balance": 35.4
+    },
+    {
+      "time": 1757217599999,
+      "RSI": 74.49,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2832,
+      "balance": 35.11
+    },
+    {
+      "time": 1757218499999,
+      "RSI": 63.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757219399999,
+      "RSI": 61.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757220299999,
+      "RSI": 55.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757221199999,
+      "RSI": 53.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757222099999,
+      "RSI": 58.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757222999999,
+      "RSI": 58.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757223899999,
+      "RSI": 57.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757224799999,
+      "RSI": 57.22,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757225699999,
+      "RSI": 54.48,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757226599999,
+      "RSI": 44.02,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757227499999,
+      "RSI": 45.87,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757228399999,
+      "RSI": 34.76,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757229299999,
+      "RSI": 40.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757230199999,
+      "RSI": 52.5,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757231099999,
+      "RSI": 68.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757231999999,
+      "RSI": 62.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 35.11
+    },
+    {
+      "time": 1757232899999,
+      "RSI": 70.74,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2809,
+      "balance": 34.83
+    },
+    {
+      "time": 1757233799999,
+      "RSI": 79.23,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2787,
+      "balance": 34.55
+    },
+    {
+      "time": 1757234699999,
+      "RSI": 74.15,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2764,
+      "balance": 34.28
+    },
+    {
+      "time": 1757235599999,
+      "RSI": 65.82,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 34.28
+    },
+    {
+      "time": 1757236499999,
+      "RSI": 70.69,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2742,
+      "balance": 34
+    },
+    {
+      "time": 1757237399999,
+      "RSI": 69.92,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 34
+    },
+    {
+      "time": 1757238299999,
+      "RSI": 63.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 34
+    },
+    {
+      "time": 1757239199999,
+      "RSI": 67.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 34
+    },
+    {
+      "time": 1757240099999,
+      "RSI": 70.64,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.272,
+      "balance": 33.73
+    },
+    {
+      "time": 1757240999999,
+      "RSI": 65.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757241899999,
+      "RSI": 68.07,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757242799999,
+      "RSI": 66.2,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757243699999,
+      "RSI": 63.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757244599999,
+      "RSI": 66.28,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757245499999,
+      "RSI": 64.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757246399999,
+      "RSI": 52.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757247299999,
+      "RSI": 48.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757248199999,
+      "RSI": 52.59,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757249099999,
+      "RSI": 47.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757249999999,
+      "RSI": 47.25,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757250899999,
+      "RSI": 54.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757251799999,
+      "RSI": 49.22,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757252699999,
+      "RSI": 50.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757253599999,
+      "RSI": 62.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757254499999,
+      "RSI": 48.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757255399999,
+      "RSI": 42.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757256299999,
+      "RSI": 49.62,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757257199999,
+      "RSI": 41.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757258099999,
+      "RSI": 42.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757258999999,
+      "RSI": 51.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757259899999,
+      "RSI": 60.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757260799999,
+      "RSI": 63.87,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757261699999,
+      "RSI": 56.39,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757262599999,
+      "RSI": 56.56,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757263499999,
+      "RSI": 61.46,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757264399999,
+      "RSI": 56.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757265299999,
+      "RSI": 42.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757266199999,
+      "RSI": 35.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757267099999,
+      "RSI": 47.29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757267999999,
+      "RSI": 41.76,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757268899999,
+      "RSI": 37.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757269799999,
+      "RSI": 40.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757270699999,
+      "RSI": 38.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757271599999,
+      "RSI": 36.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757272499999,
+      "RSI": 36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757273399999,
+      "RSI": 40.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757274299999,
+      "RSI": 48.94,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757275199999,
+      "RSI": 52.16,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757276099999,
+      "RSI": 46.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757276999999,
+      "RSI": 50.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757277899999,
+      "RSI": 55.09,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757278799999,
+      "RSI": 67.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757279699999,
+      "RSI": 56.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757280599999,
+      "RSI": 62.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757281499999,
+      "RSI": 57.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757282399999,
+      "RSI": 54.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757283299999,
+      "RSI": 61.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757284199999,
+      "RSI": 62.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757285099999,
+      "RSI": 56.31,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757285999999,
+      "RSI": 55,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757286899999,
+      "RSI": 52.07,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757287799999,
+      "RSI": 58.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757288699999,
+      "RSI": 59.95,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757289599999,
+      "RSI": 47.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757290499999,
+      "RSI": 47.69,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757291399999,
+      "RSI": 46.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757292299999,
+      "RSI": 47.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757293199999,
+      "RSI": 39.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757294099999,
+      "RSI": 42,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757294999999,
+      "RSI": 42.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757295899999,
+      "RSI": 39.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757296799999,
+      "RSI": 34.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757297699999,
+      "RSI": 38.18,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757298599999,
+      "RSI": 35.17,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757299499999,
+      "RSI": 47.09,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757300399999,
+      "RSI": 42.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757301299999,
+      "RSI": 44.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757302199999,
+      "RSI": 50.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757303099999,
+      "RSI": 51.79,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757303999999,
+      "RSI": 42.69,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757304899999,
+      "RSI": 45.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757305799999,
+      "RSI": 66.26,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757306699999,
+      "RSI": 56.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757307599999,
+      "RSI": 59.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757308499999,
+      "RSI": 55.07,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757309399999,
+      "RSI": 53.26,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757310299999,
+      "RSI": 50.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757311199999,
+      "RSI": 58.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757312099999,
+      "RSI": 33.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757312999999,
+      "RSI": 45.44,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757313899999,
+      "RSI": 46.22,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757314799999,
+      "RSI": 48.37,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757315699999,
+      "RSI": 55.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757316599999,
+      "RSI": 69.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757317499999,
+      "RSI": 64.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757318399999,
+      "RSI": 55.49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757319299999,
+      "RSI": 61.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 33.73
+    },
+    {
+      "time": 1757320199999,
+      "RSI": 70.48,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2699,
+      "balance": 33.46
+    },
+    {
+      "time": 1757321099999,
+      "RSI": 74.86,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2677,
+      "balance": 33.19
+    },
+    {
+      "time": 1757321999999,
+      "RSI": 70.3,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2656,
+      "balance": 32.93
+    },
+    {
+      "time": 1757322899999,
+      "RSI": 75.66,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2634,
+      "balance": 32.67
+    },
+    {
+      "time": 1757323799999,
+      "RSI": 69.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 32.67
+    },
+    {
+      "time": 1757324699999,
+      "RSI": 73.35,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2613,
+      "balance": 32.4
+    },
+    {
+      "time": 1757325599999,
+      "RSI": 73.36,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2592,
+      "balance": 32.14
+    },
+    {
+      "time": 1757326499999,
+      "RSI": 68.19,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 32.14
+    },
+    {
+      "time": 1757327399999,
+      "RSI": 72.49,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2572,
+      "balance": 31.89
+    },
+    {
+      "time": 1757328299999,
+      "RSI": 69.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757329199999,
+      "RSI": 63.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757330099999,
+      "RSI": 61.03,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757330999999,
+      "RSI": 63.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757331899999,
+      "RSI": 65.65,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757332799999,
+      "RSI": 62.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757333699999,
+      "RSI": 55.77,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757334599999,
+      "RSI": 57.93,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757335499999,
+      "RSI": 53.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757336399999,
+      "RSI": 56.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757337299999,
+      "RSI": 63.56,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757338199999,
+      "RSI": 53.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757339099999,
+      "RSI": 59.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757339999999,
+      "RSI": 42.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757340899999,
+      "RSI": 50.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757341799999,
+      "RSI": 55.64,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757342699999,
+      "RSI": 68.2,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.89
+    },
+    {
+      "time": 1757343599999,
+      "RSI": 70.87,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2551,
+      "balance": 31.63
+    },
+    {
+      "time": 1757344499999,
+      "RSI": 70.44,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2531,
+      "balance": 31.38
+    },
+    {
+      "time": 1757345399999,
+      "RSI": 70.37,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.251,
+      "balance": 31.13
+    },
+    {
+      "time": 1757346299999,
+      "RSI": 65.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757347199999,
+      "RSI": 66.86,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757348099999,
+      "RSI": 58.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757348999999,
+      "RSI": 63.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757349899999,
+      "RSI": 53.46,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757350799999,
+      "RSI": 54.71,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757351699999,
+      "RSI": 52.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757352599999,
+      "RSI": 64.72,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757353499999,
+      "RSI": 52.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757354399999,
+      "RSI": 49.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757355299999,
+      "RSI": 41.06,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757356199999,
+      "RSI": 42.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757357099999,
+      "RSI": 39.41,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757357999999,
+      "RSI": 40.14,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757358899999,
+      "RSI": 38.96,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757359799999,
+      "RSI": 38.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757360699999,
+      "RSI": 41.46,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757361599999,
+      "RSI": 32.58,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757362499999,
+      "RSI": 35.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757363399999,
+      "RSI": 36.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757364299999,
+      "RSI": 35.49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757365199999,
+      "RSI": 28.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757366099999,
+      "RSI": 45.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757366999999,
+      "RSI": 45.42,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757367899999,
+      "RSI": 48.87,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757368799999,
+      "RSI": 47.68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757369699999,
+      "RSI": 54.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757370599999,
+      "RSI": 44.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757371499999,
+      "RSI": 56.94,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757372399999,
+      "RSI": 51.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757373299999,
+      "RSI": 54.16,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757374199999,
+      "RSI": 51.38,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757375099999,
+      "RSI": 48.68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757375999999,
+      "RSI": 51.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757376899999,
+      "RSI": 54.76,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757377799999,
+      "RSI": 40.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757378699999,
+      "RSI": 30.83,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757379599999,
+      "RSI": 33.7,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757380499999,
+      "RSI": 24.08,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757381399999,
+      "RSI": 17.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757382299999,
+      "RSI": 14.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757383199999,
+      "RSI": 14.95,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757384099999,
+      "RSI": 9.99,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757384999999,
+      "RSI": 16.25,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757385899999,
+      "RSI": 21.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757386799999,
+      "RSI": 21.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757387699999,
+      "RSI": 30.26,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757388599999,
+      "RSI": 33.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757389499999,
+      "RSI": 37.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757390399999,
+      "RSI": 51.68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757391299999,
+      "RSI": 55.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757392199999,
+      "RSI": 60.44,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757393099999,
+      "RSI": 63.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 31.13
+    },
+    {
+      "time": 1757393999999,
+      "RSI": 75.8,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.249,
+      "balance": 30.88
+    },
+    {
+      "time": 1757394899999,
+      "RSI": 66.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 30.88
+    },
+    {
+      "time": 1757395799999,
+      "RSI": 72.61,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.247,
+      "balance": 30.63
+    },
+    {
+      "time": 1757396699999,
+      "RSI": 82,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2451,
+      "balance": 30.39
+    },
+    {
+      "time": 1757397599999,
+      "RSI": 83.87,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2431,
+      "balance": 30.14
+    },
+    {
+      "time": 1757398499999,
+      "RSI": 87.63,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2412,
+      "balance": 29.9
+    },
+    {
+      "time": 1757399399999,
+      "RSI": 87.1,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2392,
+      "balance": 29.66
+    },
+    {
+      "time": 1757400299999,
+      "RSI": 87.61,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2373,
+      "balance": 29.43
+    },
+    {
+      "time": 1757401199999,
+      "RSI": 88.28,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2354,
+      "balance": 29.19
+    },
+    {
+      "time": 1757402099999,
+      "RSI": 86.85,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2335,
+      "balance": 28.96
+    },
+    {
+      "time": 1757402999999,
+      "RSI": 87.83,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2317,
+      "balance": 28.73
+    },
+    {
+      "time": 1757403899999,
+      "RSI": 75.13,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2298,
+      "balance": 28.5
+    },
+    {
+      "time": 1757404799999,
+      "RSI": 73.89,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.228,
+      "balance": 28.27
+    },
+    {
+      "time": 1757405699999,
+      "RSI": 74.89,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2261,
+      "balance": 28.04
+    },
+    {
+      "time": 1757406599999,
+      "RSI": 74.37,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2243,
+      "balance": 27.82
+    },
+    {
+      "time": 1757407499999,
+      "RSI": 78.15,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2225,
+      "balance": 27.6
+    },
+    {
+      "time": 1757408399999,
+      "RSI": 75.51,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2208,
+      "balance": 27.37
+    },
+    {
+      "time": 1757409299999,
+      "RSI": 73.26,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.219,
+      "balance": 27.16
+    },
+    {
+      "time": 1757410199999,
+      "RSI": 71.04,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2172,
+      "balance": 26.94
+    },
+    {
+      "time": 1757411099999,
+      "RSI": 58.5,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757411999999,
+      "RSI": 61.92,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757412899999,
+      "RSI": 56.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757413799999,
+      "RSI": 37.92,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757414699999,
+      "RSI": 43.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757415599999,
+      "RSI": 30.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757416499999,
+      "RSI": 42.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757417399999,
+      "RSI": 34.84,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757418299999,
+      "RSI": 28.9,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757419199999,
+      "RSI": 21.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757420099999,
+      "RSI": 38.63,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757420999999,
+      "RSI": 42.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757421899999,
+      "RSI": 39.27,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757422799999,
+      "RSI": 39.21,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757423699999,
+      "RSI": 44.37,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757424599999,
+      "RSI": 44.98,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757425499999,
+      "RSI": 46.74,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757426399999,
+      "RSI": 52.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757427299999,
+      "RSI": 38.19,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757428199999,
+      "RSI": 37.69,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757429099999,
+      "RSI": 25.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757429999999,
+      "RSI": 31.75,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757430899999,
+      "RSI": 28.73,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757431799999,
+      "RSI": 29.44,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757432699999,
+      "RSI": 17.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757433599999,
+      "RSI": 18.08,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757434499999,
+      "RSI": 25.4,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757435399999,
+      "RSI": 22.69,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757436299999,
+      "RSI": 21.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757437199999,
+      "RSI": 20.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757438099999,
+      "RSI": 20.16,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757438999999,
+      "RSI": 20.12,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757439899999,
+      "RSI": 27.02,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757440799999,
+      "RSI": 27.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757441699999,
+      "RSI": 39.36,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757442599999,
+      "RSI": 36.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757443499999,
+      "RSI": 41.51,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757444399999,
+      "RSI": 45.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757445299999,
+      "RSI": 66.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757446199999,
+      "RSI": 64.49,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757447099999,
+      "RSI": 57.93,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757447999999,
+      "RSI": 68.54,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757448899999,
+      "RSI": 61.13,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757449799999,
+      "RSI": 58.04,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757450699999,
+      "RSI": 56.56,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.94
+    },
+    {
+      "time": 1757451599999,
+      "RSI": 74.19,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2155,
+      "balance": 26.72
+    },
+    {
+      "time": 1757452499999,
+      "RSI": 73.44,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2138,
+      "balance": 26.51
+    },
+    {
+      "time": 1757453399999,
+      "RSI": 63.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757454299999,
+      "RSI": 62.32,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757455199999,
+      "RSI": 54.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757456099999,
+      "RSI": 63.71,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757456999999,
+      "RSI": 59.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757457899999,
+      "RSI": 58.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757458799999,
+      "RSI": 59.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757459699999,
+      "RSI": 55.02,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757460599999,
+      "RSI": 54.37,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757461499999,
+      "RSI": 60,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757462399999,
+      "RSI": 62.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757463299999,
+      "RSI": 56.89,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757464199999,
+      "RSI": 39.24,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757465099999,
+      "RSI": 36.34,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757465999999,
+      "RSI": 36.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757466899999,
+      "RSI": 41.45,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757467799999,
+      "RSI": 39.48,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757468699999,
+      "RSI": 33.37,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757469599999,
+      "RSI": 35.68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757470499999,
+      "RSI": 43.43,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757471399999,
+      "RSI": 43.97,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757472299999,
+      "RSI": 51.91,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757473199999,
+      "RSI": 49.05,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757474099999,
+      "RSI": 48.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757474999999,
+      "RSI": 46.56,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757475899999,
+      "RSI": 51.23,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757476799999,
+      "RSI": 60.88,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757477699999,
+      "RSI": 59.15,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.51
+    },
+    {
+      "time": 1757478599999,
+      "RSI": 71.34,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2121,
+      "balance": 26.3
+    },
+    {
+      "time": 1757479499999,
+      "RSI": 61.61,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 26.3
+    },
+    {
+      "time": 1757480399999,
+      "RSI": 74.74,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2104,
+      "balance": 26.09
+    },
+    {
+      "time": 1757481299999,
+      "RSI": 74.81,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2087,
+      "balance": 25.88
+    },
+    {
+      "time": 1757482199999,
+      "RSI": 75.43,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.207,
+      "balance": 25.67
+    },
+    {
+      "time": 1757483099999,
+      "RSI": 68.66,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757483999999,
+      "RSI": 61.52,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757484899999,
+      "RSI": 50.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757485799999,
+      "RSI": 68,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757486699999,
+      "RSI": 69.35,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757487599999,
+      "RSI": 68.39,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 25.67
+    },
+    {
+      "time": 1757488499999,
+      "RSI": 71,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2054,
+      "balance": 25.47
+    },
+    {
+      "time": 1757489399999,
+      "RSI": 75.86,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2037,
+      "balance": 25.26
+    },
+    {
+      "time": 1757490299999,
+      "RSI": 76.71,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2021,
+      "balance": 25.06
+    },
+    {
+      "time": 1757491199999,
+      "RSI": 80.16,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.2005,
+      "balance": 24.86
+    },
+    {
+      "time": 1757492099999,
+      "RSI": 88.57,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1989,
+      "balance": 24.66
+    },
+    {
+      "time": 1757492999999,
+      "RSI": 82.33,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1973,
+      "balance": 24.46
+    },
+    {
+      "time": 1757493899999,
+      "RSI": 75.67,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1957,
+      "balance": 24.27
+    },
+    {
+      "time": 1757494799999,
+      "RSI": 68.85,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757495699999,
+      "RSI": 62.39,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757496599999,
+      "RSI": 66.78,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757497499999,
+      "RSI": 65.57,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757498399999,
+      "RSI": 62.53,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757499299999,
+      "RSI": 61.47,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757500199999,
+      "RSI": 65.1,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757501099999,
+      "RSI": 61.6,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757501999999,
+      "RSI": 51.11,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757502899999,
+      "RSI": 52.81,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757503799999,
+      "RSI": 42.3,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757504699999,
+      "RSI": 29,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757505599999,
+      "RSI": 35.62,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757506499999,
+      "RSI": 45.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757507399999,
+      "RSI": 58.14,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 24.27
+    },
+    {
+      "time": 1757508299999,
+      "RSI": 80.05,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1941,
+      "balance": 24.07
+    },
+    {
+      "time": 1757509199999,
+      "RSI": 80.27,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1926,
+      "balance": 23.88
+    },
+    {
+      "time": 1757510099999,
+      "RSI": 86.81,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.191,
+      "balance": 23.69
+    },
+    {
+      "time": 1757510999999,
+      "RSI": 83.9,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1895,
+      "balance": 23.5
+    },
+    {
+      "time": 1757511899999,
+      "RSI": 85.75,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.188,
+      "balance": 23.31
+    },
+    {
+      "time": 1757512799999,
+      "RSI": 84.03,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1865,
+      "balance": 23.13
+    },
+    {
+      "time": 1757513699999,
+      "RSI": 85.79,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.185,
+      "balance": 22.94
+    },
+    {
+      "time": 1757514599999,
+      "RSI": 89.72,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1835,
+      "balance": 22.76
+    },
+    {
+      "time": 1757515499999,
+      "RSI": 88.88,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1821,
+      "balance": 22.57
+    },
+    {
+      "time": 1757516399999,
+      "RSI": 83.84,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1806,
+      "balance": 22.39
+    },
+    {
+      "time": 1757517299999,
+      "RSI": 88.2,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1792,
+      "balance": 22.22
+    },
+    {
+      "time": 1757518199999,
+      "RSI": 80.84,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1777,
+      "balance": 22.04
+    },
+    {
+      "time": 1757519099999,
+      "RSI": 80.12,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1763,
+      "balance": 21.86
+    },
+    {
+      "time": 1757519999999,
+      "RSI": 77.66,
+      "Sentiment": 0,
+      "action": "sell",
+      "profit": -0.1749,
+      "balance": 21.69
+    },
+    {
+      "time": 1757520899999,
+      "RSI": 63.67,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757521799999,
+      "RSI": 58.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757522699999,
+      "RSI": 49.28,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757523599999,
+      "RSI": 53.46,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757524499999,
+      "RSI": 50.01,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757525399999,
+      "RSI": 36.41,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    },
+    {
+      "time": 1757526299999,
+      "RSI": 34.94,
+      "Sentiment": 0,
+      "action": "hold",
+      "profit": 0,
+      "balance": 21.69
+    }
+  ]
+}
